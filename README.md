@@ -2,6 +2,10 @@
 
 A website which keeps the record of ordering and buying food by the customers.
 
+## Basic Idea:
+The basic idea behind this website is developing something for college canteens, where students have to wait for a long time  after ordering their food, using this site the students can order from anywhere which helps in saving their time.The payment can also be done anytime incase of non availability of money, as it gets updated in the previous orders section with the status of payment .
+In this way , the precious time of students can be saved.
+
 ### REGISTRATION PAGE:
 
 A user can register as a vendor if he/she wants to sell their item and as a customer if he/she is a buyer.<br  />
